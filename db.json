@@ -1,0 +1,116 @@
+{
+  "pack": [
+    {
+      "id" : 1,
+      "type" : "Vetrine",
+      "categorie": 1,
+      "price" : "2999 DH",
+      "elements" : [
+        {
+          "id" : 1,
+          "content" : "element 1"
+        },
+        {
+          "id" : 2,
+          "content" : "element 2"
+        },
+        {
+          "id" : 3,
+          "content" : "element 3"
+        },
+        {
+          "id" : 4,
+          "content" : "element 4"
+        },
+        {
+          "id" : 5,
+          "content" : "element 5"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "type" : "Vetrine",
+      "categorie": 1,
+      "price" : "2999 DH",
+      "elements" : [
+        {
+          "id" : 1,
+          "content" : "element 1"
+        },
+        {
+          "id" : 2,
+          "content" : "element 2"
+        },
+        {
+          "id" : 3,
+          "content" : "element 3"
+        },
+        {
+          "id" : 4,
+          "content" : "element 4"
+        },
+        {
+          "id" : 5,
+          "content" : "element 5"
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "type" : "Vetrine",
+      "categorie": 1,
+      "price" : "2999 DH",
+      "elements" : [
+        {
+          "id" : 1,
+          "content" : "element 1"
+        },
+        {
+          "id" : 2,
+          "content" : "element 2"
+        },
+        {
+          "id" : 3,
+          "content" : "element 3"
+        },
+        {
+          "id" : 4,
+          "content" : "element 4"
+        },
+        {
+          "id" : 5,
+          "content" : "element 5"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "type" : "Andriod",
+      "categorie": 2,
+      "price" : "3999 DH",
+      "elements" : [
+        {
+          "id" : 1,
+          "content" : "element 1"
+        },
+        {
+          "id" : 2,
+          "content" : "element 2"
+        },
+        {
+          "id" : 3,
+          "content" : "element 3"
+        },
+        {
+          "id" : 4,
+          "content" : "element 4"
+        },
+        {
+          "id" : 5,
+          "content" : "element 5"
+        }
+      ]
+    }
+  ]
+}
